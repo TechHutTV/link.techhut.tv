@@ -1,21 +1,21 @@
-# baseURL = "https://your_domain.com/"
+# baseURL = "https://link.techhut.tv/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Lynx"
+title = "TechHut Media Directory"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-  name = "Your name here"
-  headline = "An awesome person"
+  name = "Brandon Hopkins"
+  headline = "Contact information, social media, and other links for Brandon Hopkins, founder and host of TechHut. Bringing detailed guides, tutorials, tips-and-tricks! We're casual gamers, tech enthusiasts, open source advocates, and simply; geeks."
   # image = "img/author.jpg"  # path relative to static directory
 
   links = [
-    # { email = "mailto:hello@your_domain.com" },
-    # { link = "https://link-to-some-website.com/" },
+    { email = "mailto:brandon@techhut.tv" },
+    { link = "https://buymeacoffee.com/techhut" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { bandcamp = "https://username.bandcamp.com" },
@@ -54,9 +54,9 @@ disableKinds = ["taxonomy", "term"]
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
     # { twitter = "https://twitter.com/username" },
-    # { whatsapp = "https://wa.me/phone-number" },
-    # { x = "https://x.com/username" },
-    # { youtube = "https://youtube.com/username" },
+    { whatsapp = "https://wa.me/13609913714" },
+    { x = "https://x.com/techhuttv" },
+    { youtube = "https://youtube.com/@techhut" },
   ]
 
 [module]
