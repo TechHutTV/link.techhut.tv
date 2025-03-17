@@ -15,7 +15,7 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
     { email = "mailto:brandon@techhut.tv" },
-    { link = "https://buymeacoffee.com/techhut" },
+    # { link = "https://buymeacoffee.com/techhut" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { bandcamp = "https://username.bandcamp.com" },
@@ -54,7 +54,7 @@ disableKinds = ["taxonomy", "term"]
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
     # { twitter = "https://twitter.com/username" },
-    { whatsapp = "https://wa.me/13609913714" },
+    # { whatsapp = "https://wa.me/13609913714" },
     { x = "https://x.com/techhuttv" },
     { youtube = "https://youtube.com/@techhut" },
   ]
